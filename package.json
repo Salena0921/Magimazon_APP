@@ -1,0 +1,15 @@
+{
+  "name": "magimazon",
+  "version": "1.0.0",
+  "description": "online shopping for your modern day witch and wizard",
+  "main": "magimazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karissa McKendall",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "mysql": "^2.15.0"
+  }
+}
